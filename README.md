@@ -1,1 +1,4 @@
 # AR_TapToPlace_Sample
+The application is created as a simple AR application for android. AR Foundation package and Google ARCore XR Plugins. The postion of components on screen are done for 2160x1080 screen on absolute scale.
+Direction for use: After setting up the app, wait for a few seconds until the surfaces are detected, detected surfaces will be shown in green white plane. Next, tap any point in the plane to place the object. The default object is a basic cube, but it can be "Ayodhya Ram Mandir" and "James Thomson Building (IITR)", all can be selected through respective buttons. If an object is already placed, surface is tapped after clicking button of some new object, the new object will be 'added' to the surface, otherwise the previous object will change postion the new tapped postion only.
+This project is done under Tinkering Lab (IITR) to learn fundamentals of AR for android by me alone.
